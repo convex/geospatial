@@ -4,3 +4,5 @@ github.com/golang/geo v0.0.0-20260120070133-792bb8583fbb h1:OhyJ/wXEqRssvvFcXP8W
 github.com/golang/geo v0.0.0-20260120070133-792bb8583fbb/go.mod h1:Mymr9kRGDc64JPr03TSZmuIBODZ3KyswLzm1xL0HFA8=
 github.com/golang/geo v0.0.0-20260129164528-943061e2742c h1:ysO2h2Odnl1AJM1I2Lm/fa6JvO0pECMSt2CwBaa+ITo=
 github.com/golang/geo v0.0.0-20260129164528-943061e2742c/go.mod h1:Mymr9kRGDc64JPr03TSZmuIBODZ3KyswLzm1xL0HFA8=
+github.com/golang/geo v0.0.0-20261106073233-5e8d6967632a h1:GLMvsMlp+kWJbqjyIav7/LBks3hMVyANhPVy+tSDA5M=
+github.com/golang/geo v0.0.0-20261106073233-5e8d6967632a/go.mod h1:bJozU6ZRa8d29WpXkTQZ42lWCOJ+SC3XA8sXnLqA5IU=
